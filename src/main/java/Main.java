@@ -18,19 +18,19 @@ public class Main {
 //        System.out.println();
 //    }
 
-        Smartphone smartphone = new Smartphone(
-                2,
-                "Смартфоны",
-                60_000,
-                "Самсунг А10",
-                "Самсунг"
-        );
-        smartphone.setPrice(149_000);
-        System.out.println(smartphone.isTooExpensive());
-
-        smartphone.use();
-        System.out.println();
-
+//        Smartphone smartphone = new Smartphone(
+//                2,
+//                "Смартфоны",
+//                60_000,
+//                "Самсунг А10",
+//                "Самсунг"
+//        );
+//        smartphone.setPrice(149_000);
+//        System.out.println(smartphone.isTooExpensive());
+//
+//        smartphone.use();
+//        System.out.println();
+//
     }
 }
 
